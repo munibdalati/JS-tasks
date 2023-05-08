@@ -1,0 +1,38 @@
+.container{
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 16px;
+    box-shadow: 0.5px 0.5px gray;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 10%;
+    padding-bottom: 5%;
+}
+p{
+    font-size: 1.5rem;
+}
+
+button{
+    background-color: #0158a8;
+    color:white;
+    border-radius: 16px;
+    padding: 10px 50px;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 1.5rem;
+    
+}
+
+form{
+    text-align: left;
+    margin-left: 10%;
+}
+
+.straight__line{
+    display: flex;
+}
+
+.required{
+    color: red;
+    font-size: 1.3rem;
+}
